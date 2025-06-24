@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L432xC/TARGET_NUCLEO_L432KC
+# Install script for directory: C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L432xC/TARGET_NUCLEO_L432KC
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/build/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L432xC/TARGET_NUCLEO_L432KC/install_local_manifest.txt"
+  file(WRITE "C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/build/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L432xC/TARGET_NUCLEO_L432KC/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -910,7 +910,7 @@ rule CXX_STATIC_LIBRARY_LINKER__mbed-greentea-io_Develop
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\rnk509\OneDrive - University of York\Desktop\Mbedprograms\mbed-ce-hello-worldNEW" -B"C:\Users\rnk509\OneDrive - University of York\Desktop\Mbedprograms\mbed-ce-hello-worldNEW\build"
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\rnk509\OneDrive - University of York\Desktop\Mbedprograms\NewMbedCE" -B"C:\Users\rnk509\OneDrive - University of York\Desktop\Mbedprograms\NewMbedCE\build"
   description = Re-running CMake...
   generator = 1
 

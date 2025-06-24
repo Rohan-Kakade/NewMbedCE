@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/mbed-os/platform/source
+# Install script for directory: C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/mbed-os/platform/source
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,17 +39,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/build/mbed-os/platform/source/TARGET_CORTEX_M/cmake_install.cmake")
+  include("C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/build/mbed-os/platform/source/TARGET_CORTEX_M/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/build/mbed-os/platform/source/minimal-printf/cmake_install.cmake")
+  include("C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/build/mbed-os/platform/source/minimal-printf/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/mbed-ce-hello-worldNEW/build/mbed-os/platform/source/install_local_manifest.txt"
+  file(WRITE "C:/Users/rnk509/OneDrive - University of York/Desktop/Mbedprograms/NewMbedCE/build/mbed-os/platform/source/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
