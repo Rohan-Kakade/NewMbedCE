@@ -5,7 +5,7 @@ DigitalIn button(BUTTON1, PullUp);
 
 int main()
 {
-	printf("Blank project: NEW Hello world from Mbed CE! \n");
+	printf("Blank project: NEW Mbed CE says hi again! \n");
 	thread_sleep_for(150);
 
 	while(true)
